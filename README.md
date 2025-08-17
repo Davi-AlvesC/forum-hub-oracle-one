@@ -82,4 +82,4 @@ Cada **tópico** possui os seguintes atributos:
 ---
 
 ## 👤 Autor
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/89622689?v=4" width="200px"><br> <strong>Davi Alves da Costa</strong><br> <a href="https://github.com/Davi-AlvesC">@Davi-AlvesC</a> </p> ```
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/89622689?v=4" width="200px"><br> <strong>Davi Alves da Costa</strong><br> <a href="https://github.com/Davi-AlvesC">@Davi-AlvesC</a> </p>
